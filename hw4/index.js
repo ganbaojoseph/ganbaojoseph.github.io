@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      '"What makes you think I am a spy?" she asked after a long silence.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      '"And notwithstanding you had signed the name Parry?"',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      '“Oh, damn!” shouted Long-beard and rushed from the room.'      
 };
 
 function status(statusText) {
